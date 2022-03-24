@@ -913,6 +913,7 @@
 
 <ol>
     <li>pyglet python libary research</li>
+    <li>The future division statement, spelled from __future__ import division , will change the / operator to mean true division throughout the module. A command line option will enable run-time warnings for classic division applied to int or long arguments; another command line option will make true division the default.</li>
     <li></li>
 
 
