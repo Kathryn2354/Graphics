@@ -907,7 +907,7 @@
 
 # Code explanation:
 
-The creator of this code is imported multiple python module in this code. The creator have to add python environment for the pyglet libaray in the reguirement txt for this code to run. 
+The creator of this code is imported multiple python module in this code, which are sys, math, random, time. The creator have to add python environment for the pyglet libaray in the reguirement txt for this code to run. The code some variable are intialized first.
 
 # log
 
@@ -915,6 +915,7 @@ The creator of this code is imported multiple python module in this code. The cr
     <li>pyglet python libary research</li>
     <li>The future division statement, spelled from __future__ import division , will change the / operator to mean true division throughout the module. A command line option will enable run-time warnings for classic division applied to int or long arguments; another command line option will make true division the default.</li>
     <li>Deque (Doubly Ended Queue) in Python is implemented using the module “collections“. Deque is preferred over a list in the cases where we need quicker append and pop operations from both the ends of the container, as deque provides an O(1) time complexity for append and pop operations as compared to list which provides O(n) time complexity.</li>
+    <li>Terminal velocity is the maximum velocity attainable by an object as it falls through a fluid. It occurs when the sum of the drag force and the buoyancy is equal to the downward force of gravity acting on the object. Since the net force on the object is zero, the object has zero acceleration.</li>
     <li></li>
 
 
